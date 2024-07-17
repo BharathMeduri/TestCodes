@@ -241,6 +241,7 @@ int main ()
   SigCatch(SIGABRT);
   SigCatch(SIGSEGV);
   SigCatch(SIGINT);
+  /*sig child ignoring*/
   signal (SIGCHLD, SIG_IGN);
 
 #if 0
