@@ -8,5 +8,4 @@ Here is a solution to Write Signal handler which can make quick BT and Dump core
 Suppoerted formats ex: zip, 7z, jar, war, ear, rar, cab, gz, gzip, tar, rpm, iso, isx, bz2, bzip2, tbz2, tbz, tgz, arj, cpio, deb, dmg, hfs, hfsx, lzh, lha, lzma, z, taz, xar, pkg, xz, txz, zipx, epub, wim, chm, lib, tar.gz, tgz, gz
 Use cases:  Grep a Supi , Log Line , Trace one call , cookie , SPI etc..
 
-
   
